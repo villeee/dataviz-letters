@@ -1,19 +1,23 @@
 import json
 
 txt = """
-Tiedon visualisoija Helsingin Sanomien datadeskiin
+Katso tästä, kuinka Awak Kuier teki suomalaista koripallohistoriaa! Lupaus nautti jo alkulämmittelyistä: "Oli tosi siistiä"
 
-Helsingin Sanomien datadeski hakee tiedon visualisoijaa etsimään datasta uutisia ja visualisoimaan niitä.
+Awak Kuier pelasi ensimmäisenä suomalaisena WNBA-sarjassa. Dallas Wings hävisi ottelun Atlanta Dreamille lukemin 95–101. Kuier kertoi Yle Urheilulle, että debyytti jännitti. Pääkuvaa klikkaamalla voit katsoa koosteen Kuierin avauspelistä.
 
-Tehtäväsi on kahtalainen: keräät sekä analysoit erilaisia data-aineistoja ja etsit niistä uutisia. Lisäksi pystyt visualisoimaan tietoa grafiikan keinoin. 
+Naisten koripallon WNBA-sarjaan siirtynyt suomalainen Awak Kuier teki debyyttinsä, kun hänen joukkueensa Dallas Wings kohtasi Atlanta Dreamin vieraskentällä. Dallas hävisi ottelun 95–101.
 
-Osaat ottaa haltuun erilaisia tietoaineistoja ja analysoida niitä itse koodaamalla tai erilaisten työkalujen avulla. Osaat tehdä tuloksista grafiikkaa esimerkiksi Illustratorilla. Ymmärrät, miten tietoa kannattaa visualisoida verkossa ja erityisesti pienillä mobiililaitteilla. Odotamme kokemusta journalismista tai ainakin vahvaa kiinnostusta alaa kohtaan.
+Kuier teki ottelusta suomalaista koripallohistoriaa, sillä hänestä tuli ensimmäinen suomalaispelaaja, joka on pelannut WNBA-sarjassa.
 
-Tehtävässä teet myös paljon yhteistyötä muun toimituksen kanssa. Pestiin kuuluu myös muulloin kuin toimistoaikaan tehtäviä työvuoroja.
+Vain yhden kerran uuden joukkueen kanssa ennen ottelua harjoitellut Kuier sai peliaikaa kuusi minuuttia ja 45 sekuntia. Suomalainen teki yhden pisteen vapaaheitosta, kahmi yhden hyökkäyspään levypallon ja antoi yhden koriin johtaneen syötön.
 
-HS:n toimituksen datadeski on 16 ihmisen tiimi, jonka digitaalisen journalismin osaaminen on maailmanluokkaa. Tiimissä työskentelee graafikoita, liikegraafikoita, datajournalisteja, tuottajia ja ohjelmistokehittäjiä. 
+– Kyllä jännitti tosi paljon. Olin kuitenkin myös innoissani. Oli tosi siistiä olla jengin kanssa jo alkulämmittelyissä, Kuier iloitsi Yle Urheilulle.
 
-Lisätietoa antavat toimituspäällikkö toimituspäällikkö Esa Mäkinen, 040 3540371, esa.makinen@hs.fi, ja datadeskin esimies Juhani Saarinen, 050 5869053, juhani.saarinen@hs.fi.
+Kuier yritti kolmen pisteen heittoa kaksi kertaa ilman tulosta. Kuier pelasi ottelun avauspuolikkaalla 4.51 ja jälkimmäisellä puoliskolla alle kaksi minuuttia.
+
+Kuier ehti harjoitella joukkueensa kanssa vain kertaalleen ennen debyyttiä.
+
+– Olihan se vaikeaa. Onneksi meillä oli helppoa kuvioita, jotka muistin hyvin. Tärkeintä on päästä omaan rytmiin. Harjoitusten kautta se onnistuu, Kuier itse arvioi.
 
 """
 
